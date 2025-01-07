@@ -1,6 +1,6 @@
 
 # brands-company-mapping
-This repository hosts a JSON mapping file that maps brand names to company names 
+This repository hosts a JSON mapping file that maps brand names to company names, such as defined by [sustainalytics.com](https://www.sustainalytics.com/esg-rating)
 
 ## Purpose
 
