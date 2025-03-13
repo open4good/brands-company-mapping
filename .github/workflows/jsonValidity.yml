@@ -1,0 +1,19 @@
+name: Validate JSON with jsonlint-action
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Validate brands-company-mapping.json
+        uses: IonicaBizau/jsonlint-action@v1.2.0
+        with:
+          file: brands-company-mapping.json
