@@ -6,28 +6,33 @@
     {
       "canonicalName": "SAMSUNG",
       "normalizedName": "SAMSUNG",
-      "companyName": "Samsung Electronics Co., Ltd.",
+      "company-id": "samsung-electronics-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "samsung.com"
+      ]
     },
     {
       "canonicalName": "TCL",
       "normalizedName": "TCL",
-      "companyName": "TCL Electronics Holdings Ltd.",
+      "company-id": "tcl-electronics-holdings-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "tcl.com"
+      ]
     },
     {
       "canonicalName": "LG",
       "normalizedName": "LG",
-      "companyName": "LG Electronics, Inc.",
+      "company-id": "lg-electronics-inc",
       "status": "reviewed",
       "synonyms": [
-        "LG ELECTRONICS",
-        "LG ELECTRONICS INC",
         "LG Electronics",
+        "LG ELECTRONICS INC",
         "LG Electronics Inc."
       ],
       "sources": [
@@ -37,1407 +42,2471 @@
           "rawName": "LG",
           "count": 1
         }
+      ],
+      "official-domains": [
+        "lg.com"
       ]
     },
     {
       "canonicalName": "PHILIPS",
       "normalizedName": "PHILIPS",
-      "companyName": "Koninklijke Philips NV",
+      "company-id": "koninklijke-philips-nv",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "philips.com",
+        "www.philips.com"
+      ]
     },
     {
       "canonicalName": "BOSH",
       "normalizedName": "BOSH",
-      "companyName": "Robert Bosch GmbH",
+      "company-id": "robert-bosch-gmbh",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "HISENSE",
       "normalizedName": "HISENSE",
-      "companyName": "Hisense Home Appliances Group Co., Ltd.",
+      "company-id": "hisense-home-appliances-group-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "global.hisense.com",
+        "hisense.fr"
+      ]
     },
     {
       "canonicalName": "ASUS",
       "normalizedName": "ASUS",
-      "companyName": "ASUSTek Computer, Inc.",
+      "company-id": "asustek-computer-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "asus.com"
+      ]
     },
     {
       "canonicalName": "EPSON",
       "normalizedName": "EPSON",
-      "companyName": "Seiko Epson Corp.",
+      "company-id": "seiko-epson-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MSI",
       "normalizedName": "MSI",
-      "companyName": "Motorola Solutions, Inc.",
+      "company-id": "motorola-solutions-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DELL",
       "normalizedName": "DELL",
-      "companyName": "Dell Technologies, Inc.",
+      "company-id": "dell-technologies-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BROTHER",
       "normalizedName": "BROTHER",
-      "companyName": "Brother Industries, Ltd.",
+      "company-id": "brother-industries-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BOSCH",
       "normalizedName": "BOSCH",
-      "companyName": "Bosch Ltd.",
+      "company-id": "bosch-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "bosch-home.com"
+      ]
     },
     {
       "canonicalName": "BEKO",
       "normalizedName": "BEKO",
-      "companyName": "Arçelik AS",
+      "company-id": "arcelik-as",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "beko.com",
+        "beko.fr"
+      ]
     },
     {
       "canonicalName": "ACER",
       "normalizedName": "ACER",
-      "companyName": "Acer, Inc.",
+      "company-id": "acer-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CANON",
       "normalizedName": "CANON",
-      "companyName": "Canon Electronics, Inc.",
+      "company-id": "canon-electronics-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CANDY",
       "normalizedName": "CANDY",
-      "companyName": "Haier Smart Home Co., Ltd.",
+      "company-id": "haier-smart-home-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "candy-home.com",
+        "candyhome.com"
+      ]
     },
     {
       "canonicalName": "WHIRLPOOL",
       "normalizedName": "WHIRLPOOL",
-      "companyName": "Whirlpool Corp.",
+      "company-id": "whirlpool-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "docs.whirlpool.*",
+        "whirlpool.*"
+      ]
     },
     {
       "canonicalName": "LENOVO",
       "normalizedName": "LENOVO",
-      "companyName": "Lenovo Group Ltd.",
+      "company-id": "lenovo-group-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ROWENTA",
       "normalizedName": "ROWENTA",
-      "companyName": "SEB SA",
+      "company-id": "seb-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BRAUN",
       "normalizedName": "BRAUN",
-      "companyName": "Procter & Gamble Co.",
+      "company-id": "procter-gamble-co",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SONY",
       "normalizedName": "SONY",
-      "companyName": "Sony Group Corp.",
+      "company-id": "sony-group-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "sony.com"
+      ]
     },
     {
       "canonicalName": "ELECTROLUX",
       "normalizedName": "ELECTROLUX",
-      "companyName": "Electrolux AB",
+      "company-id": "electrolux-ab",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "electrolux-ui.com",
+        "electrolux.com",
+        "electrolux.fr"
+      ]
     },
     {
       "canonicalName": "HAIER",
       "normalizedName": "HAIER",
-      "companyName": "Haier Smart Home Co., Ltd.",
+      "company-id": "haier-smart-home-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "haier-europe.com"
+      ]
     },
     {
       "canonicalName": "SMEG",
       "normalizedName": "SMEG",
-      "companyName": "SMEG SPA",
+      "company-id": "smeg-spa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "smeg.com"
+      ]
     },
     {
       "canonicalName": "HOOVER",
       "normalizedName": "HOOVER",
-      "companyName": "Haier Smart Home Co., Ltd.",
+      "company-id": "haier-smart-home-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "HP",
       "normalizedName": "HP",
-      "companyName": "Hewlett Packard Enterprise Co.",
+      "company-id": "hewlett-packard-enterprise-co",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SIEMENS",
       "normalizedName": "SIEMENS",
-      "companyName": "Siemens Energy AG",
+      "company-id": "siemens-energy-ag",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "siemens-home.bsh-group.com"
+      ]
     },
     {
       "canonicalName": "INDESIT",
       "normalizedName": "INDESIT",
-      "companyName": "Whirlpool Corp.",
+      "company-id": "whirlpool-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "docs.whirlpool.*",
+        "indesit.*"
+      ]
     },
     {
       "canonicalName": "TEFAL",
       "normalizedName": "TEFAL",
-      "companyName": "SEB SA",
+      "company-id": "seb-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SHARP",
       "normalizedName": "SHARP",
-      "companyName": "Sharp Corp.",
+      "company-id": "sharp-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "sharp.*"
+      ]
     },
     {
       "canonicalName": "PREWAVE",
       "normalizedName": "PREWAVE",
-      "companyName": "PREWAVE GMBH",
+      "company-id": "prewave-gmbh",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BENQ",
       "normalizedName": "BENQ",
-      "companyName": "Qisda Corp.",
+      "company-id": "qisda-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "THOMSON",
       "normalizedName": "THOMSON",
-      "companyName": "Thomson Reuters Corp.",
+      "company-id": "thomson-reuters-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "mythomson.com",
+        "thomson-europe.com"
+      ]
     },
     {
       "canonicalName": "PANASONIC",
       "normalizedName": "PANASONIC",
-      "companyName": "Panasonic Holdings Corp.",
+      "company-id": "panasonic-holdings-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "panasonic.com"
+      ]
     },
     {
       "canonicalName": "FUJITSU",
       "normalizedName": "FUJITSU",
-      "companyName": "Fujitsu General Ltd.",
+      "company-id": "fujitsu-general-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "NINTENDO",
       "normalizedName": "NINTENDO",
-      "companyName": "Nintendo Co., Ltd.",
+      "company-id": "nintendo-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ADLER",
       "normalizedName": "ADLER",
-      "companyName": "Stadler Rail AG",
+      "company-id": "stadler-rail-ag",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SALTON INC",
       "normalizedName": "SALTON INC",
-      "companyName": "Spectrum Brands Holdings, Inc.",
+      "company-id": "spectrum-brands-holdings-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "XIAOMI",
       "normalizedName": "XIAOMI",
-      "companyName": "Xiaomi Corp.",
+      "company-id": "xiaomi-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "mi.com",
+        "xiaomi.com"
+      ]
     },
     {
       "canonicalName": "LEXMARK",
       "normalizedName": "LEXMARK",
-      "companyName": "International Business Machines Corp.",
+      "company-id": "international-business-machines-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CONTINENTAL EDISON",
       "normalizedName": "CONTINENTAL EDISON",
-      "companyName": "Casino, Guichard-Perrachon SA",
+      "company-id": "casino-guichard-perrachon-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "continentaledison.com"
+      ]
     },
     {
       "canonicalName": "HOTPOINT",
       "normalizedName": "HOTPOINT",
-      "companyName": "Arçelik AS",
+      "company-id": "arcelik-as",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "digitalassets-cdn.thron.com",
+        "docs.hotpoint.*",
+        "docs.whirlpool.*",
+        "hotpoint.*"
+      ]
     },
     {
       "canonicalName": "MEDION",
       "normalizedName": "MEDION",
-      "companyName": "Lenovo Group Ltd.",
+      "company-id": "lenovo-group-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KARCHER",
       "normalizedName": "KARCHER",
-      "companyName": "KSB SE & Co. KGaA",
+      "company-id": "ksb-se-co-kgaa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "GIGABYTE",
       "normalizedName": "GIGABYTE",
-      "companyName": "Gigabyte Technology Co., Ltd.",
+      "company-id": "gigabyte-technology-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ZEBRA",
       "normalizedName": "ZEBRA",
-      "companyName": "Zebra Technologies Corp.",
+      "company-id": "zebra-technologies-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SCHNEIDER",
       "normalizedName": "SCHNEIDER",
-      "companyName": "Schneider Electric SE",
+      "company-id": "schneider-electric-se",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "schneiderconsumer.com"
+      ]
     },
     {
       "canonicalName": "KRUPS",
       "normalizedName": "KRUPS",
-      "companyName": "SEB SA",
+      "company-id": "seb-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BLACK & DECKER",
       "normalizedName": "BLACK & DECKER",
-      "companyName": "Stanley Black & Decker, Inc.",
+      "company-id": "stanley-black-decker-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MICROSOFT",
       "normalizedName": "MICROSOFT",
-      "companyName": "Microsoft Corp.",
+      "company-id": "microsoft-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "GRUNDIG",
       "normalizedName": "GRUNDIG",
-      "companyName": "Arçelik AS",
+      "company-id": "arcelik-as",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DOMO",
       "normalizedName": "DOMO",
-      "companyName": "Domo, Inc.",
+      "company-id": "domo-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DATALOGIC",
       "normalizedName": "DATALOGIC",
-      "companyName": "Datalogic SpA",
+      "company-id": "datalogic-spa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "TOSHIBA",
       "normalizedName": "TOSHIBA",
-      "companyName": "Toshiba Tec Corp.",
+      "company-id": "toshiba-tec-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "toshiba-lifestyle.com"
+      ]
     },
     {
       "canonicalName": "RICOH",
       "normalizedName": "RICOH",
-      "companyName": "Ricoh Co., Ltd.",
+      "company-id": "ricoh-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "HONEYWELL",
       "normalizedName": "HONEYWELL",
-      "companyName": "Honeywell International, Inc.",
+      "company-id": "honeywell-international-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "NILFISK",
       "normalizedName": "NILFISK",
-      "companyName": "Nilfisk Holding A/S",
+      "company-id": "nilfisk-holding-a-s",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MOULINEX",
       "normalizedName": "MOULINEX",
-      "companyName": "SEB SA",
+      "company-id": "seb-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KYOCERA",
       "normalizedName": "KYOCERA",
-      "companyName": "Kyocera Corp.",
+      "company-id": "kyocera-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KITCHENAID",
       "normalizedName": "KITCHENAID",
-      "companyName": "Whirlpool Corp.",
+      "company-id": "whirlpool-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "YONIS",
       "normalizedName": "YONIS",
-      "companyName": "DaikyoNishikawa Corp.",
+      "company-id": "daikyonishikawa-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "yonis-shop.com"
+      ]
     },
     {
       "canonicalName": "IROBOT",
       "normalizedName": "IROBOT",
-      "companyName": "iRobot Corp.",
+      "company-id": "irobot-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "STAR MICRONICS",
       "normalizedName": "STAR MICRONICS",
-      "companyName": "Star Micronics Co., Ltd.",
+      "company-id": "star-micronics-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "YAMAHA",
       "normalizedName": "YAMAHA",
-      "companyName": "Yamaha Corp.",
+      "company-id": "yamaha-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "JVC",
       "normalizedName": "JVC",
-      "companyName": "JVCKenwood Corp.",
+      "company-id": "jvckenwood-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "APPLE",
       "normalizedName": "APPLE",
-      "companyName": "Apple, Inc.",
+      "company-id": "apple-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "apple.com"
+      ]
     },
     {
       "canonicalName": "XGIMI",
       "normalizedName": "XGIMI",
-      "companyName": "XGimi Technology Co., Ltd.",
+      "company-id": "xgimi-technology-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CITIZEN",
       "normalizedName": "CITIZEN",
-      "companyName": "Citizen Watch Co., Ltd.",
+      "company-id": "citizen-watch-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "TAURUS",
       "normalizedName": "TAURUS",
-      "companyName": "Taurus Armas SA",
+      "company-id": "taurus-armas-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SMART TECH",
       "normalizedName": "SMART TECH",
-      "companyName": "Hainan Jinpan Smart Technology Co., Ltd.",
+      "company-id": "hainan-jinpan-smart-technology-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BRANDT",
       "normalizedName": "BRANDT",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "boutique.brandt.fr",
+        "brandt.com"
+      ]
     },
     {
       "canonicalName": "COMBISTEEL",
       "normalizedName": "COMBISTEEL",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "combisteel.com"
+      ]
     },
     {
       "canonicalName": "MIELE",
       "normalizedName": "MIELE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "miele.com",
+        "miele.fr"
+      ]
     },
     {
       "canonicalName": "OPTOMA",
       "normalizedName": "OPTOMA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ARIETE",
       "normalizedName": "ARIETE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DEL",
       "normalizedName": "DEL",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "AEG",
       "normalizedName": "AEG",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "aeg-home.com",
+        "aeg.*"
+      ]
     },
     {
       "canonicalName": "RUSSELL HOBBS",
       "normalizedName": "RUSSELL HOBBS",
-      "companyName": "Spectrum Brands Holdings, Inc.",
+      "company-id": "spectrum-brands-holdings-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "FRIGELUX",
       "normalizedName": "FRIGELUX",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "frigelux-shop.com"
+      ]
     },
     {
       "canonicalName": "SEVERIN",
       "normalizedName": "SEVERIN",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BOMANN",
       "normalizedName": "BOMANN",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "bomann.de"
+      ]
     },
     {
       "canonicalName": "H.KOENIG",
       "normalizedName": "H.KOENIG",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "LIVOO",
       "normalizedName": "LIVOO",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "FAGOR",
       "normalizedName": "FAGOR",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "OBJETS POUR LA MAISON",
       "normalizedName": "OBJETS POUR LA MAISON",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "TRISTAR",
       "normalizedName": "TRISTAR",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SENCOR",
       "normalizedName": "SENCOR",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BLACK",
       "normalizedName": "BLACK",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "POLTI",
       "normalizedName": "POLTI",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CALOR",
       "normalizedName": "CALOR",
-      "companyName": "SEB SA",
+      "company-id": "seb-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "VEDETTE",
       "normalizedName": "VEDETTE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "vedette.fr"
+      ]
     },
     {
       "canonicalName": "NEDIS",
       "normalizedName": "NEDIS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CLATRONIC",
       "normalizedName": "CLATRONIC",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "LIEBHERR",
       "normalizedName": "LIEBHERR",
-      "companyName": "Liebherr-International AG",
+      "company-id": "liebherr-international-ag",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "home.liebherr.com",
+        "liebherr.com"
+      ]
     },
     {
       "canonicalName": "ATOSA",
       "normalizedName": "ATOSA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "atosa.pl",
+        "atosaiberia.com",
+        "atosausa.com"
+      ]
     },
     {
       "canonicalName": "HATTEKER",
       "normalizedName": "HATTEKER",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PLUSTEK",
       "normalizedName": "PLUSTEK",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MPM",
       "normalizedName": "MPM",
-      "companyName": "PT Mitra Pinasthika Mustika Tbk",
+      "company-id": "pt-mitra-pinasthika-mustika-tbk",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PROLINE",
       "normalizedName": "PROLINE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "darty.com"
+      ]
     },
     {
       "canonicalName": "DYMO",
       "normalizedName": "DYMO",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CECOTEC",
       "normalizedName": "CECOTEC",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "cecotec.es"
+      ]
     },
     {
       "canonicalName": "PANTUM",
       "normalizedName": "PANTUM",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "GB",
       "normalizedName": "GB",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PERIPAGE",
       "normalizedName": "PERIPAGE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "AMICA",
       "normalizedName": "AMICA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "amica-group.com",
+        "amica.pl"
+      ]
     },
     {
       "canonicalName": "BIXOLON",
       "normalizedName": "BIXOLON",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SWAN",
       "normalizedName": "SWAN",
-      "companyName": "Swan Energy Ltd.",
+      "company-id": "swan-energy-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PRO",
       "normalizedName": "PRO",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PRINCESS",
       "normalizedName": "PRINCESS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ASKO",
       "normalizedName": "ASKO",
-      "companyName": "Hisense Home Appliances Group Co., Ltd.",
+      "company-id": "hisense-home-appliances-group-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "asko.com"
+      ]
     },
     {
       "canonicalName": "TOM",
       "normalizedName": "TOM",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MELITTA",
       "normalizedName": "MELITTA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DREAME",
       "normalizedName": "DREAME",
-      "companyName": "Dreame Technology Co., Ltd",
+      "company-id": "dreame-technology-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "WMF",
       "normalizedName": "WMF",
-      "companyName": "SEB SA",
+      "company-id": "seb-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "NEFF",
       "normalizedName": "NEFF",
-      "companyName": "Robert Bosch GmbH",
+      "company-id": "robert-bosch-gmbh",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "neff-home.com"
+      ]
     },
     {
       "canonicalName": "OKI",
       "normalizedName": "OKI",
-      "companyName": "Oki Electric Industry Co., Ltd.",
+      "company-id": "oki-electric-industry-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DYSON",
       "normalizedName": "DYSON",
-      "companyName": "DYSON GMBH",
+      "company-id": "dyson-gmbh",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "FAURE",
       "normalizedName": "FAURE",
-      "companyName": "Electrolux AB",
+      "company-id": "electrolux-ab",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ESI",
       "normalizedName": "ESI",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PROFICOOK",
       "normalizedName": "PROFICOOK",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "NUMATIC",
       "normalizedName": "NUMATIC",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "JIMMY",
       "normalizedName": "JIMMY",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BABYLISS",
       "normalizedName": "BABYLISS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "TELEFUNKEN",
       "normalizedName": "TELEFUNKEN",
-      "companyName": "Electrolux AB",
+      "company-id": "electrolux-ab",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "telefunken.com"
+      ]
     },
     {
       "canonicalName": "UNOLD",
       "normalizedName": "UNOLD",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CAMRY",
       "normalizedName": "CAMRY",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KIT",
       "normalizedName": "KIT",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CHIQ",
       "normalizedName": "CHIQ",
-      "companyName": "Sichuan Changhong Electric Co., Ltd.",
+      "company-id": "sichuan-changhong-electric-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BLACKPEAR",
       "normalizedName": "BLACKPEAR",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "REMINGTON",
       "normalizedName": "REMINGTON",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "DENON",
       "normalizedName": "DENON",
-      "companyName": "D&M Holdings",
+      "company-id": "d-m-holdings",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MUSE",
       "normalizedName": "MUSE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "OCEANIC",
       "normalizedName": "OCEANIC",
-      "companyName": "Vestel Elektronik Sanayi ve Ticaret AS",
+      "company-id": "vestel-elektronik-sanayi-ve-ticaret-as",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "LACOR",
       "normalizedName": "LACOR",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CLOER",
       "normalizedName": "CLOER",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "BRIEBE",
       "normalizedName": "BRIEBE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "NON RENSEIGNE",
       "normalizedName": "NON RENSEIGNE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SOLAC",
       "normalizedName": "SOLAC",
-      "companyName": "Taurus Armas SA",
+      "company-id": "taurus-armas-sa",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "PIONEER",
       "normalizedName": "PIONEER",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CAMBRIDGE",
       "normalizedName": "CAMBRIDGE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "TECHWOOD",
       "normalizedName": "TECHWOOD",
-      "companyName": "Vestel Elektronik Sanayi ve Ticaret AS",
+      "company-id": "vestel-elektronik-sanayi-ve-ticaret-as",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "IRIS",
       "normalizedName": "IRIS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "GORENJE",
       "normalizedName": "GORENJE",
-      "companyName": "Hisense Home Appliances Group Co., Ltd.",
+      "company-id": "hisense-home-appliances-group-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "gorenje.com"
+      ]
     },
     {
       "canonicalName": "AUNA",
       "normalizedName": "AUNA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "EVIDEA",
       "normalizedName": "EVIDEA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ESSENTIEL B",
       "normalizedName": "ESSENTIEL B",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "boulanger.com"
+      ]
     },
     {
       "canonicalName": "GHIBLI",
       "normalizedName": "GHIBLI",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ROSIERES",
       "normalizedName": "ROSIERES",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "EDM",
       "normalizedName": "EDM",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "HAEGER",
       "normalizedName": "HAEGER",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "STRONG",
       "normalizedName": "STRONG",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ALESSI",
       "normalizedName": "ALESSI",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MARANTZ",
       "normalizedName": "MARANTZ",
-      "companyName": "Sound United LLC",
+      "company-id": "sound-united-llc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "SEGA",
       "normalizedName": "SEGA",
-      "companyName": "Sega Sammy Holdings, Inc.",
+      "company-id": "sega-sammy-holdings-inc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "POLAROID",
       "normalizedName": "POLAROID",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "IBILI",
       "normalizedName": "IBILI",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KORONA",
       "normalizedName": "KORONA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CUISINART",
       "normalizedName": "CUISINART",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "AENO",
       "normalizedName": "AENO",
-      "companyName": "ASBISc Enterprises Plc",
+      "company-id": "asbisc-enterprises-plc",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "NEC",
       "normalizedName": "NEC",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ME",
       "normalizedName": "ME",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ALIENWARE",
       "normalizedName": "ALIENWARE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ARTHUR MARTIN",
       "normalizedName": "ARTHUR MARTIN",
-      "companyName": "Electrolux AB",
+      "company-id": "electrolux-ab",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KLARSTEIN",
       "normalizedName": "KLARSTEIN",
-      "companyName": "Berlin Brands Group",
+      "company-id": "berlin-brands-group",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "klarstein.*"
+      ]
     },
     {
       "canonicalName": "KLAISER",
       "normalizedName": "KLAISER",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "FUJIFILM",
       "normalizedName": "FUJIFILM",
-      "companyName": "FUJIFILM Holdings Corp.",
+      "company-id": "fujifilm-holdings-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "KENWOOD",
       "normalizedName": "KENWOOD",
-      "companyName": "JVCKenwood Corp.",
+      "company-id": "jvckenwood-corp",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "GRAEF",
       "normalizedName": "GRAEF",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "HERZ",
       "normalizedName": "HERZ",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "AORUS",
       "normalizedName": "AORUS",
-      "companyName": "Gigabyte Technology Co., Ltd.",
+      "company-id": "gigabyte-technology-co-ltd",
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "THOMAS",
       "normalizedName": "THOMAS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "ESPERANZA",
       "normalizedName": "ESPERANZA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "JATA",
       "normalizedName": "JATA",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "CREATE",
       "normalizedName": "CREATE",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": [
+        "create-store.com"
+      ]
     },
     {
       "canonicalName": "TOMTOP JMS",
       "normalizedName": "TOMTOP JMS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "STAR",
       "normalizedName": "STAR",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "GASTROBACK",
       "normalizedName": "GASTROBACK",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
     },
     {
       "canonicalName": "MORPHY RICHARDS",
       "normalizedName": "MORPHY RICHARDS",
-      "companyName": "",
+      "company-id": null,
       "status": "reviewed",
       "synonyms": [],
-      "sources": []
+      "sources": [],
+      "official-domains": []
+    },
+    {
+      "canonicalName": "MATERIEL CHR PRO",
+      "normalizedName": "MATERIEL CHR PRO",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "materiel-chr-pro.com"
+      ]
+    },
+    {
+      "canonicalName": "HOTPOINT ARISTON",
+      "normalizedName": "HOTPOINT ARISTON",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "digitalassets-cdn.thron.com",
+        "docs.hotpoint.*",
+        "docs.whirlpool.*",
+        "hotpoint.*"
+      ]
+    },
+    {
+      "canonicalName": "YOLCO",
+      "normalizedName": "YOLCO",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "yolco.eu",
+        "yolco.pl"
+      ]
+    },
+    {
+      "canonicalName": "VIDAXL",
+      "normalizedName": "VIDAXL",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "vidaxl.*"
+      ]
+    },
+    {
+      "canonicalName": "ALPINESTARS",
+      "normalizedName": "ALPINESTARS",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "alpinestars.com"
+      ]
+    },
+    {
+      "canonicalName": "IXON",
+      "normalizedName": "IXON",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "ixon.com"
+      ]
+    },
+    {
+      "canonicalName": "FOX",
+      "normalizedName": "FOX",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "foxracing.com"
+      ]
+    },
+    {
+      "canonicalName": "SHOT",
+      "normalizedName": "SHOT",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "shotracegear.com"
+      ]
+    },
+    {
+      "canonicalName": "SCORPION",
+      "normalizedName": "SCORPION",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "scorpionexo.com"
+      ]
+    },
+    {
+      "canonicalName": "CHAFT",
+      "normalizedName": "CHAFT",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "chaft.fr"
+      ]
+    },
+    {
+      "canonicalName": "LS2",
+      "normalizedName": "LS2",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "ls2helmets.com"
+      ]
+    },
+    {
+      "canonicalName": "HELSTONS",
+      "normalizedName": "HELSTONS",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "helstons.net"
+      ]
+    },
+    {
+      "canonicalName": "BERING",
+      "normalizedName": "BERING",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "bering-moto.com"
+      ]
+    },
+    {
+      "canonicalName": "FURYGAN",
+      "normalizedName": "FURYGAN",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "furygan.com"
+      ]
+    },
+    {
+      "canonicalName": "REVIT",
+      "normalizedName": "REVIT",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "revitsport.com"
+      ]
+    },
+    {
+      "canonicalName": "HJC",
+      "normalizedName": "HJC",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "hjchelmets.com"
+      ]
+    },
+    {
+      "canonicalName": "HJC RPHA",
+      "normalizedName": "HJC RPHA",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "hjchelmets.com"
+      ]
+    },
+    {
+      "canonicalName": "DAINESE",
+      "normalizedName": "DAINESE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "dainese.com"
+      ]
+    },
+    {
+      "canonicalName": "MAXXE",
+      "normalizedName": "MAXXE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "maxxess.fr"
+      ]
+    },
+    {
+      "canonicalName": "KENNY",
+      "normalizedName": "KENNY",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "kenny-racing.com"
+      ]
+    },
+    {
+      "canonicalName": "SHARK",
+      "normalizedName": "SHARK",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "shark-helmets.com"
+      ]
+    },
+    {
+      "canonicalName": "SEGURA",
+      "normalizedName": "SEGURA",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "segura-moto.com"
+      ]
+    },
+    {
+      "canonicalName": "FIVE",
+      "normalizedName": "FIVE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "five-gloves.com"
+      ]
+    },
+    {
+      "canonicalName": "SHOEI",
+      "normalizedName": "SHOEI",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "shoei.com"
+      ]
+    },
+    {
+      "canonicalName": "NOLAN",
+      "normalizedName": "NOLAN",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "nolanhelmets.com"
+      ]
+    },
+    {
+      "canonicalName": "ACERBIS",
+      "normalizedName": "ACERBIS",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "acerbis.com"
+      ]
+    },
+    {
+      "canonicalName": "AIROH",
+      "normalizedName": "AIROH",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "airoh.com"
+      ]
+    },
+    {
+      "canonicalName": "GIVI",
+      "normalizedName": "GIVI",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "givi.com"
+      ]
+    },
+    {
+      "canonicalName": "QUADLOCK",
+      "normalizedName": "QUADLOCK",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "quadlockcase.com"
+      ]
+    },
+    {
+      "canonicalName": "IPONE",
+      "normalizedName": "IPONE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "ipone.com"
+      ]
+    },
+    {
+      "canonicalName": "MOTUL",
+      "normalizedName": "MOTUL",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "motul.com"
+      ]
+    },
+    {
+      "canonicalName": "ADIDAS",
+      "normalizedName": "ADIDAS",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "adidas.*"
+      ]
+    },
+    {
+      "canonicalName": "NIKE",
+      "normalizedName": "NIKE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "nike.com"
+      ]
+    },
+    {
+      "canonicalName": "BLACKVIEW",
+      "normalizedName": "BLACKVIEW",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "blackview.hk",
+        "blackview.us"
+      ]
+    },
+    {
+      "canonicalName": "HUAWEI",
+      "normalizedName": "HUAWEI",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "consumer.huawei.com",
+        "huawei.com"
+      ]
+    },
+    {
+      "canonicalName": "NOKIA",
+      "normalizedName": "NOKIA",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "hmd.com",
+        "nokia.com"
+      ]
+    },
+    {
+      "canonicalName": "OUKITEL",
+      "normalizedName": "OUKITEL",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "oukitel.com"
+      ]
+    },
+    {
+      "canonicalName": "DOOGEE",
+      "normalizedName": "DOOGEE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "doogee.com"
+      ]
+    },
+    {
+      "canonicalName": "MOTOROLA",
+      "normalizedName": "MOTOROLA",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "motorola.com"
+      ]
+    },
+    {
+      "canonicalName": "OPPO",
+      "normalizedName": "OPPO",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "oppo.com"
+      ]
+    },
+    {
+      "canonicalName": "HONOR",
+      "normalizedName": "HONOR",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "honor.com"
+      ]
+    },
+    {
+      "canonicalName": "REALME",
+      "normalizedName": "REALME",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "realme.com"
+      ]
+    },
+    {
+      "canonicalName": "ONEPLUS",
+      "normalizedName": "ONEPLUS",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "oneplus.com"
+      ]
+    },
+    {
+      "canonicalName": "GOOGLE",
+      "normalizedName": "GOOGLE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "google.com",
+        "store.google.com"
+      ]
+    },
+    {
+      "canonicalName": "ULEFONE",
+      "normalizedName": "ULEFONE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "ulefone.com"
+      ]
+    },
+    {
+      "canonicalName": "CUBOT",
+      "normalizedName": "CUBOT",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "cubot.net"
+      ]
+    },
+    {
+      "canonicalName": "KAISER",
+      "normalizedName": "KAISER",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "kaiser-olan.de"
+      ]
+    },
+    {
+      "canonicalName": "FOSSIBOT",
+      "normalizedName": "FOSSIBOT",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "fossibot.com"
+      ]
+    },
+    {
+      "canonicalName": "OSCAL",
+      "normalizedName": "OSCAL",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "oscal.hk"
+      ]
+    },
+    {
+      "canonicalName": "VIVO",
+      "normalizedName": "VIVO",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "vivo.com"
+      ]
+    },
+    {
+      "canonicalName": "HOTWAV",
+      "normalizedName": "HOTWAV",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "hotwav.com"
+      ]
+    },
+    {
+      "canonicalName": "ZTE",
+      "normalizedName": "ZTE",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "zte.com.cn"
+      ]
+    },
+    {
+      "canonicalName": "BLACKBERRY",
+      "normalizedName": "BLACKBERRY",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "blackberry.com"
+      ]
+    },
+    {
+      "canonicalName": "TEKA",
+      "normalizedName": "TEKA",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "teka.com"
+      ]
+    },
+    {
+      "canonicalName": "DE DIETRICH",
+      "normalizedName": "DE DIETRICH",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "de-dietrich.com"
+      ]
+    },
+    {
+      "canonicalName": "TEFCOLD",
+      "normalizedName": "TEFCOLD",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "tefcold.*"
+      ]
+    },
+    {
+      "canonicalName": "DORO",
+      "normalizedName": "DORO",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "doro.com"
+      ]
+    },
+    {
+      "canonicalName": "DAIKIN",
+      "normalizedName": "DAIKIN",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "daikin.com"
+      ]
+    },
+    {
+      "canonicalName": "BARTSCHER",
+      "normalizedName": "BARTSCHER",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "bartscher.com"
+      ]
+    },
+    {
+      "canonicalName": "BALAY",
+      "normalizedName": "BALAY",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "balay.es"
+      ]
+    },
+    {
+      "canonicalName": "WIKO",
+      "normalizedName": "WIKO",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "wiko.com",
+        "wikomobile.com"
+      ]
+    },
+    {
+      "canonicalName": "ATLANTIC",
+      "normalizedName": "ATLANTIC",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "atlantic.fr"
+      ]
+    },
+    {
+      "canonicalName": "UMIDIGI",
+      "normalizedName": "UMIDIGI",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "umidigi.com"
+      ]
+    },
+    {
+      "canonicalName": "VEVOR",
+      "normalizedName": "VEVOR",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "vevor.com"
+      ]
+    },
+    {
+      "canonicalName": "VALBERG",
+      "normalizedName": "VALBERG",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "electrodepot.es",
+        "electrodepot.fr"
+      ]
+    },
+    {
+      "canonicalName": "NOTHING",
+      "normalizedName": "NOTHING",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "nothing.tech"
+      ]
+    },
+    {
+      "canonicalName": "SAYL",
+      "normalizedName": "SAYL",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "saylgroup.com"
+      ]
+    },
+    {
+      "canonicalName": "SOYES",
+      "normalizedName": "SOYES",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "soyes.cn",
+        "soyes.vip"
+      ]
+    },
+    {
+      "canonicalName": "3MK",
+      "normalizedName": "3MK",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "3mk.global",
+        "3mk.pl"
+      ]
+    },
+    {
+      "canonicalName": "AMORUS",
+      "normalizedName": "AMORUS",
+      "company-id": null,
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": [],
+      "official-domains": [
+        "amorus.com"
+      ]
     }
   ],
   "suggestions": [
