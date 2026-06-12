@@ -4,10 +4,60 @@
   "name": "ASUSTek Computer, Inc.",
   "aliases": [],
   "parentCompanyId": null,
-  "identifiers": {},
-  "hq": null,
+  "identifiers": {
+    "wikidata": "Q152864",
+    "lei": "549300E2OSYSGUTTFT68"
+  },
+  "hq": {
+    "country": "TW",
+    "city": "Taipei",
+    "lat": 25.0375,
+    "lon": 121.5625,
+    "sources": [
+      {
+        "url": "https://www.wikidata.org/wiki/Q152864",
+        "label": "Wikidata",
+        "retrievedAt": "2026-06-12"
+      }
+    ]
+  },
   "manufacturing": [],
-  "scores": {},
-  "xmetas": [],
-  "provenance": null
+  "scores": {
+    "cdp": {
+      "value": 8,
+      "rating": "A",
+      "scale": {
+        "min": 0,
+        "max": 8,
+        "higherIsBetter": true
+      },
+      "url": "https://esg.asus.com/en/news/latestnew/detail/865f04f3-a8cc-4788-ade0-3f6e762b6bf9/2024-asus-sustainability-report-is-online-en",
+      "retrievedAt": "2026-06-12"
+    }
+  },
+  "xmetas": [
+    {
+      "key": "fact.cdp-leadership-2024",
+      "type": "fact",
+      "value": "ASUS states it earned a CDP Climate Change Leadership rating for two consecutive years, including an A rating in 2024.",
+      "url": "https://esg.asus.com/en/news/latestnew/detail/865f04f3-a8cc-4788-ade0-3f6e762b6bf9/2024-asus-sustainability-report-is-online-en",
+      "retrievedAt": "2026-06-12",
+      "validUntil": null,
+      "lang": "en"
+    },
+    {
+      "key": "fact.clean200-2024",
+      "type": "fact",
+      "value": "ASUS stated it ranked 24th in the 2024 Clean200 index.",
+      "url": "https://press.asus.com/news/press-releases/en-asus-ranks-24th-in-clean200-and-earns-leadership-ratings-in-cdp-reports/",
+      "retrievedAt": "2026-06-12",
+      "validUntil": null,
+      "lang": "en"
+    }
+  ],
+  "provenance": {
+    "maintainedBy": "brands-maintenance",
+    "batch": "001",
+    "updatedAt": "2026-06-12"
+  }
 }
