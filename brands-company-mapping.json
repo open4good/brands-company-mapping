@@ -1,180 +1,1481 @@
 {
-    "SAMSUNG": "Samsung Electronics Co., Ltd.",
-    "TCL": "TCL Electronics Holdings Ltd.",
-    "LG": "LG Electronics, Inc.",
-    "PHILIPS": "Koninklijke Philips NV",
-    "BOSH": "Robert Bosch GmbH",
-    "HISENSE": "Hisense Home Appliances Group Co., Ltd.",
-    "ASUS": "ASUSTek Computer, Inc.",
-    "EPSON": "Seiko Epson Corp.",
-    "MSI": "Motorola Solutions, Inc.",
-    "DELL": "Dell Technologies, Inc.",
-    "BROTHER": "Brother Industries, Ltd.",
-    "BOSCH": "Bosch Ltd.",
-    "BEKO": "Arçelik AS",
-    "ACER": "Acer, Inc.",
-    "CANON": "Canon Electronics, Inc.",
-    "CANDY": "Haier Smart Home Co., Ltd.",
-    "WHIRLPOOL": "Whirlpool Corp.",
-    "LENOVO": "Lenovo Group Ltd.",
-    "ROWENTA": "SEB SA",
-    "BRAUN": "Procter & Gamble Co.",
-    "SONY": "Sony Group Corp.",
-    "ELECTROLUX": "Electrolux AB",
-    "HAIER": "Haier Smart Home Co., Ltd.",
-    "SMEG": "SMEG SPA",
-    "HOOVER": "Haier Smart Home Co., Ltd.",
-    "HP": "Hewlett Packard Enterprise Co.",
-    "SIEMENS": "Siemens Energy AG",
-    "INDESIT": "Whirlpool Corp.",
-    "TEFAL": "SEB SA",
-    "SHARP": "Sharp Corp.",
-    "PREWAVE": "PREWAVE GMBH",
-    "BENQ": "Qisda Corp.",
-    "THOMSON": "Thomson Reuters Corp.",
-    "PANASONIC": "Panasonic Holdings Corp.",
-    "FUJITSU": "Fujitsu General Ltd.",
-    "NINTENDO": "Nintendo Co., Ltd.",
-    "ADLER": "Stadler Rail AG",
-    "Salton Inc": "Spectrum Brands Holdings, Inc.",
-    "XIAOMI": "Xiaomi Corp.",
-    "LEXMARK": "International Business Machines Corp.",
-    "CONTINENTAL EDISON": "Casino, Guichard-Perrachon SA",
-    "HOTPOINT": "Arçelik AS",
-    "MEDION": "Lenovo Group Ltd.",
-    "KARCHER": "KSB SE & Co. KGaA",
-    "GIGABYTE": "Gigabyte Technology Co., Ltd.",
-    "ZEBRA": "Zebra Technologies Corp.",
-    "SCHNEIDER": "Schneider Electric SE",
-    "KRUPS": "SEB SA",
-    "BLACK & DECKER": "Stanley Black & Decker, Inc.",
-    "MICROSOFT": "Microsoft Corp.",
-    "GRUNDIG": "Arçelik AS",
-    "DOMO": "Domo, Inc.",
-    "DATALOGIC": "Datalogic SpA",
-    "TOSHIBA": "Toshiba Tec Corp.",
-    "RICOH": "Ricoh Co., Ltd.",
-    "HONEYWELL": "Honeywell International, Inc.",
-    "NILFISK": "Nilfisk Holding A/S",
-    "MOULINEX": "SEB SA",
-    "KYOCERA": "Kyocera Corp.",
-    "KITCHENAID": "Whirlpool Corp.",
-    "YONIS": "DaikyoNishikawa Corp.",
-    "IROBOT": "iRobot Corp.",
-    "STAR MICRONICS": "Star Micronics Co., Ltd.",
-    "YAMAHA": "Yamaha Corp.",
-    "JVC": "JVCKenwood Corp.",
-    "APPLE": "Apple, Inc.",
-    "XGIMI": "XGimi Technology Co., Ltd.",
-    "CITIZEN": "Citizen Watch Co., Ltd.",
-    "TAURUS": "Taurus Armas SA",
-    "SMART TECH": "Hainan Jinpan Smart Technology Co., Ltd.",
-    "BRANDT": "",
-    "COMBISTEEL": "",
-    "MIELE": "",
-    "OPTOMA": "",
-    "ARIETE": "",
-    "DEL": "",
-    "AEG": "",
-    "RUSSELL HOBBS": "Spectrum Brands Holdings, Inc.",
-    "FRIGELUX": "",
-    "SEVERIN": "",
-    "BOMANN": "",
-    "H.KOENIG": "",
-    "LIVOO": "",
-    "FAGOR": "",
-    "OBJETS POUR LA MAISON": "",
-    "TRISTAR": "",
-    "SENCOR": "",
-    "BLACK": "",
-    "POLTI": "",
-    "CALOR": "SEB SA",
-    "VEDETTE": "",
-    "NEDIS": "",
-    "CLATRONIC": "",
-    "LIEBHERR": "Liebherr-International AG",
-    "ATOSA": "",
-    "HATTEKER": "",
-    "PLUSTEK": "",
-    "MPM": "PT Mitra Pinasthika Mustika Tbk",
-    "PROLINE": "",
-    "DYMO": "",
-    "CECOTEC": "",
-    "PANTUM": "",
-    "GB": "",
-    "PERIPAGE": "",
-    "AMICA": "",
-    "BIXOLON": "",
-    "SWAN": "Swan Energy Ltd.",
-    "PRO": "",
-    "PRINCESS": "",
-    "ASKO": "Hisense Home Appliances Group Co., Ltd.",
-    "TOM": "",
-    "MELITTA": "",
-    "DREAME": "Dreame Technology Co., Ltd",
-    "WMF": "SEB SA",
-    "NEFF": "Robert Bosch GmbH",
-    "OKI": "Oki Electric Industry Co., Ltd.",
-    "DYSON": "DYSON GMBH",
-    "FAURE": "Electrolux AB",
-    "ESI": "",
-    "PROFICOOK": "",
-    "NUMATIC": "",
-    "JIMMY": "",
-    "BABYLISS": "",
-    "TELEFUNKEN": "Electrolux AB",
-    "UNOLD": "",
-    "CAMRY": "",
-    "KIT": "",
-    "CHIQ": "Sichuan Changhong Electric Co., Ltd.",
-    "BLACKPEAR": "",
-    "REMINGTON": "",
-    "DENON": "D&M Holdings",
-    "MUSE": "",
-    "OCEANIC": "Vestel Elektronik Sanayi ve Ticaret AS",
-    "LACOR": "",
-    "CLOER": "",
-    "BRIEBE": "",
-    "NON RENSEIGNE": "",
-    "SOLAC": "Taurus Armas SA",
-    "PIONEER": "",
-    "CAMBRIDGE": "",
-    "TECHWOOD": "Vestel Elektronik Sanayi ve Ticaret AS",
-    "IRIS": "",
-    "GORENJE": "Hisense Home Appliances Group Co., Ltd.",
-    "AUNA": "",
-    "EVIDEA": "",
-    "ESSENTIEL B": "",
-    "GHIBLI": "",
-    "ROSIERES": "",
-    "EDM": "",
-    "HAEGER": "",
-    "STRONG": "",
-    "ALESSI": "",
-    "MARANTZ": "Sound United LLC",
-    "SEGA": "Sega Sammy Holdings, Inc.",
-    "POLAROID": "",
-    "IBILI": "",
-    "KORONA": "",
-    "CUISINART": "",
-    "AENO": "ASBISc Enterprises Plc",
-    "NEC": "",
-    "ME": "",
-    "ALIENWARE": "",
-    "ARTHUR MARTIN": "Electrolux AB",
-    "KLARSTEIN": "Berlin Brands Group",
-    "KLAISER": "",
-    "FUJIFILM": "FUJIFILM Holdings Corp.",
-    "KENWOOD": "JVCKenwood Corp.",
-    "GRAEF": "",
-    "HERZ": "",
-    "AORUS": "Gigabyte Technology Co., Ltd.",
-    "THOMAS": "",
-    "ESPERANZA": "",
-    "JATA": "",
-    "CREATE": "",
-    "TOMTOP JMS": "",
-    "STAR": "",
-    "GASTROBACK": "",
-    "MORPHY RICHARDS": ""
+  "version": 2,
+  "updatedAt": "2026-06-12",
+  "companyNameSource": "Sustainalytics-aligned legacy brands-company-mapping.json; reviewed synonyms only",
+  "brands": [
+    {
+      "canonicalName": "SAMSUNG",
+      "normalizedName": "SAMSUNG",
+      "companyName": "Samsung Electronics Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TCL",
+      "normalizedName": "TCL",
+      "companyName": "TCL Electronics Holdings Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "LG",
+      "normalizedName": "LG",
+      "companyName": "LG Electronics, Inc.",
+      "status": "reviewed",
+      "synonyms": [
+        "LG ELECTRONICS",
+        "LG ELECTRONICS INC",
+        "LG Electronics",
+        "LG Electronics Inc."
+      ],
+      "sources": [
+        {
+          "source": "icecat",
+          "sourceId": "293",
+          "rawName": "LG",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "canonicalName": "PHILIPS",
+      "normalizedName": "PHILIPS",
+      "companyName": "Koninklijke Philips NV",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BOSH",
+      "normalizedName": "BOSH",
+      "companyName": "Robert Bosch GmbH",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HISENSE",
+      "normalizedName": "HISENSE",
+      "companyName": "Hisense Home Appliances Group Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ASUS",
+      "normalizedName": "ASUS",
+      "companyName": "ASUSTek Computer, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "EPSON",
+      "normalizedName": "EPSON",
+      "companyName": "Seiko Epson Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MSI",
+      "normalizedName": "MSI",
+      "companyName": "Motorola Solutions, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DELL",
+      "normalizedName": "DELL",
+      "companyName": "Dell Technologies, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BROTHER",
+      "normalizedName": "BROTHER",
+      "companyName": "Brother Industries, Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BOSCH",
+      "normalizedName": "BOSCH",
+      "companyName": "Bosch Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BEKO",
+      "normalizedName": "BEKO",
+      "companyName": "Arçelik AS",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ACER",
+      "normalizedName": "ACER",
+      "companyName": "Acer, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CANON",
+      "normalizedName": "CANON",
+      "companyName": "Canon Electronics, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CANDY",
+      "normalizedName": "CANDY",
+      "companyName": "Haier Smart Home Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "WHIRLPOOL",
+      "normalizedName": "WHIRLPOOL",
+      "companyName": "Whirlpool Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "LENOVO",
+      "normalizedName": "LENOVO",
+      "companyName": "Lenovo Group Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ROWENTA",
+      "normalizedName": "ROWENTA",
+      "companyName": "SEB SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BRAUN",
+      "normalizedName": "BRAUN",
+      "companyName": "Procter & Gamble Co.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SONY",
+      "normalizedName": "SONY",
+      "companyName": "Sony Group Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ELECTROLUX",
+      "normalizedName": "ELECTROLUX",
+      "companyName": "Electrolux AB",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HAIER",
+      "normalizedName": "HAIER",
+      "companyName": "Haier Smart Home Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SMEG",
+      "normalizedName": "SMEG",
+      "companyName": "SMEG SPA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HOOVER",
+      "normalizedName": "HOOVER",
+      "companyName": "Haier Smart Home Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HP",
+      "normalizedName": "HP",
+      "companyName": "Hewlett Packard Enterprise Co.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SIEMENS",
+      "normalizedName": "SIEMENS",
+      "companyName": "Siemens Energy AG",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "INDESIT",
+      "normalizedName": "INDESIT",
+      "companyName": "Whirlpool Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TEFAL",
+      "normalizedName": "TEFAL",
+      "companyName": "SEB SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SHARP",
+      "normalizedName": "SHARP",
+      "companyName": "Sharp Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PREWAVE",
+      "normalizedName": "PREWAVE",
+      "companyName": "PREWAVE GMBH",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BENQ",
+      "normalizedName": "BENQ",
+      "companyName": "Qisda Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "THOMSON",
+      "normalizedName": "THOMSON",
+      "companyName": "Thomson Reuters Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PANASONIC",
+      "normalizedName": "PANASONIC",
+      "companyName": "Panasonic Holdings Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "FUJITSU",
+      "normalizedName": "FUJITSU",
+      "companyName": "Fujitsu General Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NINTENDO",
+      "normalizedName": "NINTENDO",
+      "companyName": "Nintendo Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ADLER",
+      "normalizedName": "ADLER",
+      "companyName": "Stadler Rail AG",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SALTON INC",
+      "normalizedName": "SALTON INC",
+      "companyName": "Spectrum Brands Holdings, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "XIAOMI",
+      "normalizedName": "XIAOMI",
+      "companyName": "Xiaomi Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "LEXMARK",
+      "normalizedName": "LEXMARK",
+      "companyName": "International Business Machines Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CONTINENTAL EDISON",
+      "normalizedName": "CONTINENTAL EDISON",
+      "companyName": "Casino, Guichard-Perrachon SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HOTPOINT",
+      "normalizedName": "HOTPOINT",
+      "companyName": "Arçelik AS",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MEDION",
+      "normalizedName": "MEDION",
+      "companyName": "Lenovo Group Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KARCHER",
+      "normalizedName": "KARCHER",
+      "companyName": "KSB SE & Co. KGaA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GIGABYTE",
+      "normalizedName": "GIGABYTE",
+      "companyName": "Gigabyte Technology Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ZEBRA",
+      "normalizedName": "ZEBRA",
+      "companyName": "Zebra Technologies Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SCHNEIDER",
+      "normalizedName": "SCHNEIDER",
+      "companyName": "Schneider Electric SE",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KRUPS",
+      "normalizedName": "KRUPS",
+      "companyName": "SEB SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BLACK & DECKER",
+      "normalizedName": "BLACK & DECKER",
+      "companyName": "Stanley Black & Decker, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MICROSOFT",
+      "normalizedName": "MICROSOFT",
+      "companyName": "Microsoft Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GRUNDIG",
+      "normalizedName": "GRUNDIG",
+      "companyName": "Arçelik AS",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DOMO",
+      "normalizedName": "DOMO",
+      "companyName": "Domo, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DATALOGIC",
+      "normalizedName": "DATALOGIC",
+      "companyName": "Datalogic SpA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TOSHIBA",
+      "normalizedName": "TOSHIBA",
+      "companyName": "Toshiba Tec Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "RICOH",
+      "normalizedName": "RICOH",
+      "companyName": "Ricoh Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HONEYWELL",
+      "normalizedName": "HONEYWELL",
+      "companyName": "Honeywell International, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NILFISK",
+      "normalizedName": "NILFISK",
+      "companyName": "Nilfisk Holding A/S",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MOULINEX",
+      "normalizedName": "MOULINEX",
+      "companyName": "SEB SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KYOCERA",
+      "normalizedName": "KYOCERA",
+      "companyName": "Kyocera Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KITCHENAID",
+      "normalizedName": "KITCHENAID",
+      "companyName": "Whirlpool Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "YONIS",
+      "normalizedName": "YONIS",
+      "companyName": "DaikyoNishikawa Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "IROBOT",
+      "normalizedName": "IROBOT",
+      "companyName": "iRobot Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "STAR MICRONICS",
+      "normalizedName": "STAR MICRONICS",
+      "companyName": "Star Micronics Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "YAMAHA",
+      "normalizedName": "YAMAHA",
+      "companyName": "Yamaha Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "JVC",
+      "normalizedName": "JVC",
+      "companyName": "JVCKenwood Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "APPLE",
+      "normalizedName": "APPLE",
+      "companyName": "Apple, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "XGIMI",
+      "normalizedName": "XGIMI",
+      "companyName": "XGimi Technology Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CITIZEN",
+      "normalizedName": "CITIZEN",
+      "companyName": "Citizen Watch Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TAURUS",
+      "normalizedName": "TAURUS",
+      "companyName": "Taurus Armas SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SMART TECH",
+      "normalizedName": "SMART TECH",
+      "companyName": "Hainan Jinpan Smart Technology Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BRANDT",
+      "normalizedName": "BRANDT",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "COMBISTEEL",
+      "normalizedName": "COMBISTEEL",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MIELE",
+      "normalizedName": "MIELE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "OPTOMA",
+      "normalizedName": "OPTOMA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ARIETE",
+      "normalizedName": "ARIETE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DEL",
+      "normalizedName": "DEL",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "AEG",
+      "normalizedName": "AEG",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "RUSSELL HOBBS",
+      "normalizedName": "RUSSELL HOBBS",
+      "companyName": "Spectrum Brands Holdings, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "FRIGELUX",
+      "normalizedName": "FRIGELUX",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SEVERIN",
+      "normalizedName": "SEVERIN",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BOMANN",
+      "normalizedName": "BOMANN",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "H.KOENIG",
+      "normalizedName": "H.KOENIG",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "LIVOO",
+      "normalizedName": "LIVOO",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "FAGOR",
+      "normalizedName": "FAGOR",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "OBJETS POUR LA MAISON",
+      "normalizedName": "OBJETS POUR LA MAISON",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TRISTAR",
+      "normalizedName": "TRISTAR",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SENCOR",
+      "normalizedName": "SENCOR",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BLACK",
+      "normalizedName": "BLACK",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "POLTI",
+      "normalizedName": "POLTI",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CALOR",
+      "normalizedName": "CALOR",
+      "companyName": "SEB SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "VEDETTE",
+      "normalizedName": "VEDETTE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NEDIS",
+      "normalizedName": "NEDIS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CLATRONIC",
+      "normalizedName": "CLATRONIC",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "LIEBHERR",
+      "normalizedName": "LIEBHERR",
+      "companyName": "Liebherr-International AG",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ATOSA",
+      "normalizedName": "ATOSA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HATTEKER",
+      "normalizedName": "HATTEKER",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PLUSTEK",
+      "normalizedName": "PLUSTEK",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MPM",
+      "normalizedName": "MPM",
+      "companyName": "PT Mitra Pinasthika Mustika Tbk",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PROLINE",
+      "normalizedName": "PROLINE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DYMO",
+      "normalizedName": "DYMO",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CECOTEC",
+      "normalizedName": "CECOTEC",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PANTUM",
+      "normalizedName": "PANTUM",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GB",
+      "normalizedName": "GB",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PERIPAGE",
+      "normalizedName": "PERIPAGE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "AMICA",
+      "normalizedName": "AMICA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BIXOLON",
+      "normalizedName": "BIXOLON",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SWAN",
+      "normalizedName": "SWAN",
+      "companyName": "Swan Energy Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PRO",
+      "normalizedName": "PRO",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PRINCESS",
+      "normalizedName": "PRINCESS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ASKO",
+      "normalizedName": "ASKO",
+      "companyName": "Hisense Home Appliances Group Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TOM",
+      "normalizedName": "TOM",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MELITTA",
+      "normalizedName": "MELITTA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DREAME",
+      "normalizedName": "DREAME",
+      "companyName": "Dreame Technology Co., Ltd",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "WMF",
+      "normalizedName": "WMF",
+      "companyName": "SEB SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NEFF",
+      "normalizedName": "NEFF",
+      "companyName": "Robert Bosch GmbH",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "OKI",
+      "normalizedName": "OKI",
+      "companyName": "Oki Electric Industry Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DYSON",
+      "normalizedName": "DYSON",
+      "companyName": "DYSON GMBH",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "FAURE",
+      "normalizedName": "FAURE",
+      "companyName": "Electrolux AB",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ESI",
+      "normalizedName": "ESI",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PROFICOOK",
+      "normalizedName": "PROFICOOK",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NUMATIC",
+      "normalizedName": "NUMATIC",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "JIMMY",
+      "normalizedName": "JIMMY",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BABYLISS",
+      "normalizedName": "BABYLISS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TELEFUNKEN",
+      "normalizedName": "TELEFUNKEN",
+      "companyName": "Electrolux AB",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "UNOLD",
+      "normalizedName": "UNOLD",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CAMRY",
+      "normalizedName": "CAMRY",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KIT",
+      "normalizedName": "KIT",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CHIQ",
+      "normalizedName": "CHIQ",
+      "companyName": "Sichuan Changhong Electric Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BLACKPEAR",
+      "normalizedName": "BLACKPEAR",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "REMINGTON",
+      "normalizedName": "REMINGTON",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "DENON",
+      "normalizedName": "DENON",
+      "companyName": "D&M Holdings",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MUSE",
+      "normalizedName": "MUSE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "OCEANIC",
+      "normalizedName": "OCEANIC",
+      "companyName": "Vestel Elektronik Sanayi ve Ticaret AS",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "LACOR",
+      "normalizedName": "LACOR",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CLOER",
+      "normalizedName": "CLOER",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "BRIEBE",
+      "normalizedName": "BRIEBE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NON RENSEIGNE",
+      "normalizedName": "NON RENSEIGNE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SOLAC",
+      "normalizedName": "SOLAC",
+      "companyName": "Taurus Armas SA",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "PIONEER",
+      "normalizedName": "PIONEER",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CAMBRIDGE",
+      "normalizedName": "CAMBRIDGE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TECHWOOD",
+      "normalizedName": "TECHWOOD",
+      "companyName": "Vestel Elektronik Sanayi ve Ticaret AS",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "IRIS",
+      "normalizedName": "IRIS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GORENJE",
+      "normalizedName": "GORENJE",
+      "companyName": "Hisense Home Appliances Group Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "AUNA",
+      "normalizedName": "AUNA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "EVIDEA",
+      "normalizedName": "EVIDEA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ESSENTIEL B",
+      "normalizedName": "ESSENTIEL B",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GHIBLI",
+      "normalizedName": "GHIBLI",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ROSIERES",
+      "normalizedName": "ROSIERES",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "EDM",
+      "normalizedName": "EDM",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HAEGER",
+      "normalizedName": "HAEGER",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "STRONG",
+      "normalizedName": "STRONG",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ALESSI",
+      "normalizedName": "ALESSI",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MARANTZ",
+      "normalizedName": "MARANTZ",
+      "companyName": "Sound United LLC",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "SEGA",
+      "normalizedName": "SEGA",
+      "companyName": "Sega Sammy Holdings, Inc.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "POLAROID",
+      "normalizedName": "POLAROID",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "IBILI",
+      "normalizedName": "IBILI",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KORONA",
+      "normalizedName": "KORONA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CUISINART",
+      "normalizedName": "CUISINART",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "AENO",
+      "normalizedName": "AENO",
+      "companyName": "ASBISc Enterprises Plc",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "NEC",
+      "normalizedName": "NEC",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ME",
+      "normalizedName": "ME",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ALIENWARE",
+      "normalizedName": "ALIENWARE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ARTHUR MARTIN",
+      "normalizedName": "ARTHUR MARTIN",
+      "companyName": "Electrolux AB",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KLARSTEIN",
+      "normalizedName": "KLARSTEIN",
+      "companyName": "Berlin Brands Group",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KLAISER",
+      "normalizedName": "KLAISER",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "FUJIFILM",
+      "normalizedName": "FUJIFILM",
+      "companyName": "FUJIFILM Holdings Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "KENWOOD",
+      "normalizedName": "KENWOOD",
+      "companyName": "JVCKenwood Corp.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GRAEF",
+      "normalizedName": "GRAEF",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "HERZ",
+      "normalizedName": "HERZ",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "AORUS",
+      "normalizedName": "AORUS",
+      "companyName": "Gigabyte Technology Co., Ltd.",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "THOMAS",
+      "normalizedName": "THOMAS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "ESPERANZA",
+      "normalizedName": "ESPERANZA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "JATA",
+      "normalizedName": "JATA",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "CREATE",
+      "normalizedName": "CREATE",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "TOMTOP JMS",
+      "normalizedName": "TOMTOP JMS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "STAR",
+      "normalizedName": "STAR",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "GASTROBACK",
+      "normalizedName": "GASTROBACK",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    },
+    {
+      "canonicalName": "MORPHY RICHARDS",
+      "normalizedName": "MORPHY RICHARDS",
+      "companyName": "",
+      "status": "reviewed",
+      "synonyms": [],
+      "sources": []
+    }
+  ],
+  "suggestions": [
+    {
+      "rawName": "MSI",
+      "normalizedName": "MSI",
+      "suggestedCanonicalName": "MSI",
+      "source": "legacy-mapping-review",
+      "evidenceCount": 1,
+      "confidence": 0.2,
+      "reason": "Legacy company mapping points to Motorola Solutions, Inc.; conflicts with Icecat supplier MSI and needs review."
+    },
+    {
+      "rawName": "BOSH",
+      "normalizedName": "BOSH",
+      "suggestedCanonicalName": "BOSCH",
+      "source": "legacy-mapping-review",
+      "evidenceCount": 1,
+      "confidence": 0.3,
+      "reason": "Possible typo of BOSCH; keep as review suggestion until validated."
+    },
+    {
+      "rawName": "DEL",
+      "normalizedName": "DEL",
+      "suggestedCanonicalName": "DELL",
+      "source": "legacy-mapping-review",
+      "evidenceCount": 1,
+      "confidence": 0.2,
+      "reason": "Legacy mapping has an empty company and resembles DELL; review before merging."
+    },
+    {
+      "rawName": "Salton Inc",
+      "normalizedName": "SALTON INC",
+      "suggestedCanonicalName": "SALTON INC",
+      "source": "legacy-mapping-review",
+      "evidenceCount": 1,
+      "confidence": 0.2,
+      "reason": "Legacy key was not normalized; company relationship should be reviewed."
+    }
+  ]
 }
