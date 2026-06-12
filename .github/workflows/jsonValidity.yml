@@ -11,8 +11,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Validate brands-company-mapping.json
+      - name: Well-formed JSON (fast check)
         run: |
           jq empty brands-company-mapping.json
+          for f in company/*.json; do jq empty "$f"; done
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install validator
+        run: pip install jsonschema
+
+      - name: Validate against v3 schema
+        run: python3 scripts/validate.py

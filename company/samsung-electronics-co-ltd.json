@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "samsung-electronics-co-ltd",
   "name": "Samsung Electronics Co., Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

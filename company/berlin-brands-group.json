@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "berlin-brands-group",
   "name": "Berlin Brands Group",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

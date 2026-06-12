@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "tcl-electronics-holdings-ltd",
   "name": "TCL Electronics Holdings Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

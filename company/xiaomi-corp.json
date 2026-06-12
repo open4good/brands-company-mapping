@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "xiaomi-corp",
   "name": "Xiaomi Corp.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

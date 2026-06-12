@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "citizen-watch-co-ltd",
   "name": "Citizen Watch Co., Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

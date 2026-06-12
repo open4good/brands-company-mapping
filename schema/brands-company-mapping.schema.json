@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open4good.org/brands-company-mapping/brands-company-mapping.schema.json",
+  "title": "Brands company mapping referential (v3)",
+  "type": "object",
+  "required": ["version", "brands"],
+  "additionalProperties": false,
+  "properties": {
+    "version": { "const": 3 },
+    "updatedAt": { "type": "string" },
+    "brands": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["canonicalName"],
+        "additionalProperties": false,
+        "properties": {
+          "canonicalName": { "type": "string", "minLength": 1 },
+          "normalizedName": { "type": "string" },
+          "companyName": { "type": "string" },
+          "company-id": { "type": ["string", "null"] },
+          "official-domains": { "type": "array", "items": { "type": "string" } },
+          "status": { "type": "string" },
+          "synonyms": { "type": "array", "items": { "type": "string" } },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "source": { "type": "string" },
+                "sourceId": { "type": "string" },
+                "rawName": { "type": "string" },
+                "count": { "type": "integer" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "suggestions": { "type": "array" }
+  }
+}

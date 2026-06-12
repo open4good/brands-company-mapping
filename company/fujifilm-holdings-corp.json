@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "fujifilm-holdings-corp",
   "name": "FUJIFILM Holdings Corp.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

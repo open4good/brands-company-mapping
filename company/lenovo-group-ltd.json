@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "lenovo-group-ltd",
   "name": "Lenovo Group Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

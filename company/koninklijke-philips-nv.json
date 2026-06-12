@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "koninklijke-philips-nv",
   "name": "Koninklijke Philips NV",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

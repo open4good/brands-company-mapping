@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "asustek-computer-inc",
   "name": "ASUSTek Computer, Inc.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

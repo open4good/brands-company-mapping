@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "d-m-holdings",
   "name": "D&M Holdings",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

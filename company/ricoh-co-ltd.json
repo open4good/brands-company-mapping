@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "ricoh-co-ltd",
   "name": "Ricoh Co., Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

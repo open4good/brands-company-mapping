@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "lg-electronics-inc",
   "name": "LG Electronics, Inc.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

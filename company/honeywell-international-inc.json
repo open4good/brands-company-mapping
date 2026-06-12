@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "honeywell-international-inc",
   "name": "Honeywell International, Inc.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

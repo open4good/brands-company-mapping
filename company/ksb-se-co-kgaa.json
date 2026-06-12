@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "ksb-se-co-kgaa",
   "name": "KSB SE & Co. KGaA",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

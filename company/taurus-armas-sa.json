@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "taurus-armas-sa",
   "name": "Taurus Armas SA",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

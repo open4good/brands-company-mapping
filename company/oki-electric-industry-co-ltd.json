@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "oki-electric-industry-co-ltd",
   "name": "Oki Electric Industry Co., Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

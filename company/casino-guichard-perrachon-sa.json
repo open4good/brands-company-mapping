@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "casino-guichard-perrachon-sa",
   "name": "Casino, Guichard-Perrachon SA",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "dell-technologies-inc",
   "name": "Dell Technologies, Inc.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

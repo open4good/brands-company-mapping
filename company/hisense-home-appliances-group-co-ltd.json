@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "hisense-home-appliances-group-co-ltd",
   "name": "Hisense Home Appliances Group Co., Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

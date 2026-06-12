@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "haier-smart-home-co-ltd",
   "name": "Haier Smart Home Co., Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open4good.org/brands-company-mapping/company.schema.json",
+  "title": "Company (v3)",
+  "type": "object",
+  "required": ["schemaVersion", "id", "name"],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": { "const": 3 },
+    "id": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "parentCompanyId": { "type": ["string", "null"] },
+    "identifiers": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    },
+    "hq": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "country": { "type": "string" },
+        "city": { "type": ["string", "null"] },
+        "lat": { "type": ["number", "null"] },
+        "lon": { "type": ["number", "null"] },
+        "sources": { "$ref": "#/$defs/sources" }
+      }
+    },
+    "manufacturing": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/manufacturingSite" }
+    },
+    "scores": {
+      "type": "object",
+      "additionalProperties": { "$ref": "#/$defs/companyScore" }
+    },
+    "xmetas": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/xmeta" }
+    },
+    "provenance": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "properties": {
+        "maintainedBy": { "type": "string" },
+        "batch": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      }
+    }
+  },
+  "$defs": {
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url"],
+        "additionalProperties": false,
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "label": { "type": "string" },
+          "retrievedAt": { "type": "string" }
+        }
+      }
+    },
+    "manufacturingSite": {
+      "type": "object",
+      "comment": "Coordinates and at least one source are mandatory: the runtime never geocodes and every fact must be auditable.",
+      "required": ["country", "lat", "lon", "type", "sources"],
+      "additionalProperties": false,
+      "properties": {
+        "categories": { "type": "array", "items": { "type": "string" } },
+        "country": { "type": "string", "minLength": 1 },
+        "city": { "type": ["string", "null"] },
+        "lat": { "type": "number" },
+        "lon": { "type": "number" },
+        "type": { "enum": ["factory", "assembly", "hq"] },
+        "operator": { "type": ["string", "null"] },
+        "sources": { "$ref": "#/$defs/sources", "minItems": 1 }
+      }
+    },
+    "companyScore": {
+      "type": "object",
+      "required": ["scale", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "value": { "type": ["number", "null"] },
+        "rating": { "type": ["string", "null"] },
+        "scale": {
+          "type": "object",
+          "required": ["min", "max", "higherIsBetter"],
+          "additionalProperties": false,
+          "properties": {
+            "min": { "type": "number" },
+            "max": { "type": "number" },
+            "higherIsBetter": { "type": "boolean" }
+          }
+        },
+        "url": { "type": "string", "format": "uri" },
+        "retrievedAt": { "type": "string" }
+      }
+    },
+    "xmeta": {
+      "type": "object",
+      "required": ["key", "type", "value", "url"],
+      "additionalProperties": false,
+      "properties": {
+        "key": { "type": "string", "minLength": 1 },
+        "type": { "enum": ["certification", "controversy", "fact", "news"] },
+        "value": { "type": "string" },
+        "url": { "type": "string", "format": "uri" },
+        "retrievedAt": { "type": "string" },
+        "validUntil": { "type": ["string", "null"] },
+        "lang": { "type": ["string", "null"] }
+      }
+    }
+  }
+}

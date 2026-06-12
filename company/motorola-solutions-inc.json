@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "motorola-solutions-inc",
   "name": "Motorola Solutions, Inc.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

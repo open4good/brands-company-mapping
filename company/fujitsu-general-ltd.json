@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "fujitsu-general-ltd",
   "name": "Fujitsu General Ltd.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

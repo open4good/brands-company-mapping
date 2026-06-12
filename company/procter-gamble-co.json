@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "procter-gamble-co",
   "name": "Procter & Gamble Co.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

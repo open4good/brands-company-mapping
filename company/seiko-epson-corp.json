@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "seiko-epson-corp",
   "name": "Seiko Epson Corp.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "international-business-machines-corp",
   "name": "International Business Machines Corp.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

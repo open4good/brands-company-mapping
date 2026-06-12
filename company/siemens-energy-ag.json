@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "siemens-energy-ag",
   "name": "Siemens Energy AG",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

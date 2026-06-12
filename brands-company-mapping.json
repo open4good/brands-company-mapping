@@ -1,7 +1,6 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-06-12",
-  "companyNameSource": "Sustainalytics-aligned legacy brands-company-mapping.json; reviewed synonyms only",
   "brands": [
     {
       "canonicalName": "SAMSUNG",

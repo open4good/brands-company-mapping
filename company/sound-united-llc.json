@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "sound-united-llc",
   "name": "Sound United LLC",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }

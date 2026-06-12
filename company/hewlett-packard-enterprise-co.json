@@ -1,6 +1,13 @@
 {
+  "schemaVersion": 3,
   "id": "hewlett-packard-enterprise-co",
   "name": "Hewlett Packard Enterprise Co.",
-  "factoryLocations": [],
-  "scorings": {}
+  "aliases": [],
+  "parentCompanyId": null,
+  "identifiers": {},
+  "hq": null,
+  "manufacturing": [],
+  "scores": {},
+  "xmetas": [],
+  "provenance": null
 }
